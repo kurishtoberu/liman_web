@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ded6cb"/><stop offset="1" stop-color="#4e5a5e"/></linearGradient>
+  </defs>
+  <rect width="720" height="420" fill="url(#bg)"/>
+  <rect x="85" y="70" width="550" height="240" rx="12" fill="#fff" opacity=".35"/>
+  <rect x="105" y="95" width="138" height="190" rx="8" fill="#71513b" opacity=".55"/>
+  <rect x="265" y="95" width="138" height="190" rx="8" fill="#71513b" opacity=".45"/>
+  <rect x="425" y="95" width="168" height="190" rx="8" fill="#b7a48e" opacity=".55"/>
+  <rect x="110" y="295" width="500" height="35" rx="17" fill="#2f3437" opacity=".52"/>
+  <text x="50" y="388" font-family="Inter, Arial" font-size="26" fill="#fff" opacity=".85">Kitchen Preview</text>
+</svg>

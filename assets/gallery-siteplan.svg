@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420">
+  <rect width="720" height="420" fill="#f2eee6"/>
+  <rect x="70" y="58" width="580" height="305" rx="24" fill="#ded2c1"/>
+  <rect x="110" y="92" width="500" height="235" rx="12" fill="#faf8f4" stroke="#c3b6a6" stroke-width="4"/>
+  <g fill="#b58d66" opacity=".86">
+    <rect x="142" y="120" width="92" height="62" rx="8"/><rect x="270" y="120" width="92" height="62" rx="8"/><rect x="398" y="120" width="92" height="62" rx="8"/>
+    <rect x="142" y="242" width="92" height="62" rx="8"/><rect x="270" y="242" width="92" height="62" rx="8"/><rect x="398" y="242" width="92" height="62" rx="8"/>
+  </g>
+  <path d="M110 212 H610" stroke="#829c7d" stroke-width="22" stroke-linecap="round" opacity=".75"/>
+  <text x="42" y="55" fill="#5c5349" font-family="Arial" font-size="26" font-weight="700">Site Plan Preview</text>
+</svg>
